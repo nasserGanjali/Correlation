@@ -1,0 +1,8 @@
+
+/build-*
+.*
+*.user
+*.autosave
+
+
+!.gitignore
