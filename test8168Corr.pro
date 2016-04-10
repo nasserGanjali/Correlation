@@ -13,8 +13,10 @@ TEMPLATE = app
 
 
 SOURCES += main.cpp\
-        mainwindow.cpp
+        mainwindow.cpp \
+    fcorr.cpp
 
-HEADERS  += mainwindow.h
+HEADERS  += mainwindow.h \
+    fcorr.h
 
 FORMS    += mainwindow.ui
